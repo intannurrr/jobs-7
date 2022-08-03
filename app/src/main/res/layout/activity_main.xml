@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#ffffff"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:layout_width="412dp"
+        android:layout_height="17dp"
+        android:text="LADA'ARDI SACHIO LAWIDYARDANA"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.011"
+        app:layout_constraintStart_toStartOf="parent"
+        tools:layout_editor_absoluteY="4dp" />
+
+    <TextView
+        android:layout_width="414dp"
+        android:layout_height="26dp"
+        android:text="NIS:3003"
+        tools:layout_editor_absoluteX="0dp"
+        tools:layout_editor_absoluteY="35dp" />
+
+    <TextView
+        android:layout_width="411dp"
+        android:layout_height="22dp"
+        android:text="LATIFAH IRSYADIYAH"
+        tools:layout_editor_absoluteX="2dp"
+        tools:layout_editor_absoluteY="68dp" />
+
+    <TextView
+        android:layout_width="406dp"
+        android:layout_height="25dp"
+        android:text="NIS:3005"
+        tools:layout_editor_absoluteX="3dp"
+        tools:layout_editor_absoluteY="100dp" />
+
+    <TextView
+        android:layout_width="434dp"
+        android:layout_height="29dp"
+        android:background="#00ff00"
+        android:text="MAULIDA INTAN NUR AINI"
+        tools:layout_editor_absoluteX="2dp"
+        tools:layout_editor_absoluteY="135dp" />
+
+    <TextView
+        android:layout_width="413dp"
+        android:layout_height="24dp"
+        android:background="#00ff00"
+        android:text="NIS:3008"
+        tools:layout_editor_absoluteX="2dp"
+        tools:layout_editor_absoluteY="173dp" />
+
+    <TextView
+        android:layout_width="409dp"
+        android:layout_height="24dp"
+        android:text="MIFTAKHUL JANNAH"
+        tools:layout_editor_absoluteX="2dp"
+        tools:layout_editor_absoluteY="211dp" />
+
+    <TextView
+        android:layout_width="412dp"
+        android:layout_height="22dp"
+        android:text="NIS:3010"
+        tools:layout_editor_absoluteX="2dp"
+        tools:layout_editor_absoluteY="245dp" />
+
+    <TextView
+        android:layout_width="408dp"
+        android:layout_height="23dp"
+        android:text="MUH ASA SUSILO FARIKH SAKTI"
+        tools:layout_editor_absoluteX="0dp"
+        tools:layout_editor_absoluteY="279dp" />
+
+    <TextView
+        android:layout_width="411dp"
+        android:layout_height="26dp"
+        android:text="NIS:3011"
+        tools:layout_editor_absoluteX="0dp"
+        tools:layout_editor_absoluteY="311dp" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
